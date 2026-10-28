@@ -47,3 +47,16 @@ int main()
    }
    return 0;
 }
+//output
+=====bitwise operations=====
+enter the first num:12
+enteer the second num:5
+ ---menu----
+1.bitwise AND(&)
+2.bitwise OR(|)
+3.bitwise XOR(^)
+4.bitwise NOT(~)   
+5.left shift(<<)
+6.right shift(>>)
+enter your choice:1
+bitwise AND result=4
