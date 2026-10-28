@@ -57,3 +57,19 @@ switch(choice)
          }     
     return 0; 
 }  
+//output
+=====branching statements=====
+enter the first num:25
+enter the second number:18
+-----menu----
+1.check positive,negative,zero
+2.check even or odd
+3.find largest of two numbers
+4.check divisibility by 5
+enter your choice:3
+-----result------
+25 is the largarst number
+
+
+
+
