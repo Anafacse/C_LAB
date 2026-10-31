@@ -57,14 +57,14 @@ int main()
       return 0;
 }
 //output
-enter the first number:20
-enter the second number:10
------menu----
-  1.addition
-  2.subraction
-  3.multiplication
-  4.division
-  5.modulus
-enter your choice:1
-result=30
+//enter the first number:20
+//enter the second number:10
+//-----menu----
+  //1.addition
+  //2.subraction
+  //3.multiplication
+  //4.division
+  //5.modulus
+//enter your choice:1
+//result=30
 
