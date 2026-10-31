@@ -29,11 +29,11 @@ int main()
    return 0; 
 } 
 //output
-enter a number:5
- number from 1 to 5:
- 12345
- sum of number=15
-factorial of 5=120
+//enter a number:5
+ //number from 1 to 5:
+ //12345
+ //sum of number=15
+//factorial of 5=120
 
 
 
