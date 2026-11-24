@@ -45,14 +45,13 @@ int main() {
     return 0;
 }
 // OUTPUT
-Enter student roll number: 101 
-Enter student name: Arun 
-Enter student mark: 87.5 
-Enter phone number: 9876543210 
-Student details written to file successfully. 
------ STUDENT DETAILS ----- 
-Roll Number : 101 
-Name : Arun 
-Mark : 87.50 
-Phone : 9876543210
-Displaying EX.9.c.
+//Enter student roll number: 101 
+//Enter student name: Arun 
+//Enter student mark: 87.5 
+//Enter phone number: 9876543210 
+//Student details written to file successfully. 
+//----- STUDENT DETAILS ----- 
+//Roll Number : 101 
+//Name : Arun 
+//Mark : 87.50 
+//Phone : 9876543210
