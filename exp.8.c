@@ -65,22 +65,22 @@ int main()
 }
 
 // OUTPUT
-Enter the first number: 10 
-Enter the second number: 20 
-Pointer Demonstration: 
-Value of a = 10 
-Address of a = 000000000061FDE4
-Call by Value: 
-Sum = 30 
-Call by Reference: 
-After swapping, first number = 20 
-After swapping, second number = 10 
-Dynamic Memory Allocation 
-Enter the number of elements: 5 
-Enter 5 elements: 
-1 
-2 
-3 
-4 
-5 
-Sum of dynamically allocated array = 15
+//Enter the first number: 10 
+//Enter the second number: 20 
+//Pointer Demonstration: 
+//Value of a = 10 
+//Address of a = 000000000061FDE4
+//Call by Value: 
+//Sum = 30 
+//Call by Reference: 
+//After swapping, first number = 20 
+//After swapping, second number = 10 
+//Dynamic Memory Allocation 
+//Enter the number of elements: 5 
+//Enter 5 elements: 
+//1 
+//2 
+//3 
+//4 
+//5 
+//Sum of dynamically allocated array = 15
