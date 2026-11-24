@@ -1,23 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 129
-github
-Inbox
-
-shree dharshini
-Attachments
-7:46 PM (2 hours ago)
-to me
-
-
- 9 Attachments
-  •  Scanned by Gmail
-EX.10.c
-100%
 #include <stdio.h>
 struct Student
 {
@@ -87,27 +68,25 @@ int main()
 }
 
 // OUTPUT
-===== REAL-TIME ATTENDANCE SYSTEM ===== 
-Enter the number of students: 3
-Enter student details: 
-Student 1 
-Roll Number: 101 
-Name: Arun 
-Attendance (P/A): P 
-Student 2 
-Roll Number: 102 
-Name: Kumar 
-Attendance (P/A): A 
-Student 3 
-Roll Number: 103 
-Name: Priya 
-Attendance (P/A): P 
-===== ATTENDANCE REPORT ===== 
-Roll No Name Attendance 
-101 Arun P 
-102 Kumar A 
-103 Priya P
-Total Present = 2 
-Total Absent = 1 
-Attendance saved successfully..
-Displaying EX.10.c.
+//===== REAL-TIME ATTENDANCE SYSTEM ===== 
+//Enter the number of students: 3
+//Enter student details: 
+//Student 1 
+//Roll Number: 101 
+//Name: Arun 
+//Attendance (P/A): P 
+//Student 2 
+//Roll Number: 102 
+//Name: Kumar 
+//Attendance (P/A): A 
+//Student 3 
+//Roll Number: 103 
+//Name: Priya 
+//Attendance (P/A): P 
+//===== ATTENDANCE REPORT ===== 
+//Roll No Name Attendance 
+//101 Arun P 
+//102 Kumar A 
+//103 Priya P
+//Total Present = 2 
+//Total Absent = 1 
